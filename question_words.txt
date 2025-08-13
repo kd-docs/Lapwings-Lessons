@@ -11,8 +11,8 @@ need	TPHAOED
 needs	TPHAOEDZ
 needed	TPHAOETD
 want	WAUPBT
-wants	WAUPBTZ
-wanted	WAUPBT/-D
+wants	WAUPBTS
+wanted	WAUPBTD
 what	WHA
 when	WH
 where	W-R
