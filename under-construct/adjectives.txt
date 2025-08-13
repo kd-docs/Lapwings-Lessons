@@ -1,0 +1,14 @@
+big	PWEUG
+small	SPHAUL
+good	TKPWAOD
+great	TKPWRAET
+new	TPHU
+old	OELD
+high	HAO*EU
+low	HROE
+long	HROPBG
+little	HREUL
+large	HRARPBLG
+hot	HOT
+light	HRAOEUT
+right	RAOEUT

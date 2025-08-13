@@ -1,0 +1,13 @@
+in	TPH
+on	AUPB
+at	AT
+by	PWEU
+with	W
+from	TPROPL
+to	TO
+over	AUFR
+under	TPH-PB
+after	AF
+before	PW-FR
+about	PW
+of	-F

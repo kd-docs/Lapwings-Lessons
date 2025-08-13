@@ -1,0 +1,14 @@
+I	EU
+you	U
+he	HAOE
+she	SHAOE
+we	WAOE
+they	THE
+his	HEUS
+her	HER
+me	PHAOE
+my	PHAOEU
+us	US
+our	OUR
+him	HEUPL
+their	THAEUR

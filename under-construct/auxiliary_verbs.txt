@@ -1,0 +1,12 @@
+is	S
+are	-R
+be	-B
+have	SR
+has	HAS
+had	H
+did	TK
+does	TKOS
+do	TKO
+was	WAS
+were	WR
+well	WEL

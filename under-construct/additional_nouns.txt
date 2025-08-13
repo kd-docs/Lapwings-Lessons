@@ -1,0 +1,15 @@
+air	AEUR
+animal	PHAPBL
+cause	KAUS
+earth	*ERT
+end	EPBD
+kind	KAOEUPBD
+land	HRAPBD
+line	HRAOEUPB
+point	POEUPBT
+port	PORT
+sentence	STEPBS
+side	SAOEUD
+sound	SOUPBD
+thing	THEUPBG
+way	WAEU
