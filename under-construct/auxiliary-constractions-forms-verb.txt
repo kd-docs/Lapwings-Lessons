@@ -1,0 +1,91 @@
+had better	HAD/PWET/*ER
+would rather	WO*UD/RA*ER
+would sooner	WO*UD/SAOUPB/*ER
+
+ought to	AO*T/TO
+need to	TPHAOED/TO
+dare to	DAER/TO
+used to	AOUFD/TO
+have to	-F/TO
+has to	HAS/TO
+had to	HAD/TO
+be able to	PW-/AEBL/TO
+be going to	PW-/GOEG/TO
+be supposed to	PW-/SPOEFD/TO
+be about to	PW-/PWOUT/TO
+be to	PW-/TO
+
+I'm	AOEUPL
+you're	UR
+he's	HAOES
+she's	SHAOES
+it's	T-S
+we're	WAER
+they're	THAER
+wasn't	WAFRPBT
+weren't	WERFRPBT
+isn't	EURPBT
+aren't	ARPBT
+
+I've	AOEUF
+you've	UF
+he's	HAEFS
+she's	SHAEFS
+it's	T-FS
+we've	WAEF
+they've	THAEF
+haven't	HAFPBT
+hasn't	HAFPBTS
+hadn't	HADPBT
+
+don't	DOEUPBT
+doesn't	DOEPBTS
+didn't	DIDPBT
+
+I'll	AOEUL
+you'll	UL
+he'll	HAOEL
+she'll	SHAOEL
+it'll	T-L
+we'll	WAOEL
+they'll	THAOEL
+won't	WOEUPBT
+
+I'd	AOEU*D
+you'd	U*D
+he'd	HAO*ED
+she'd	SHAO*ED
+it'd	T-*D
+we'd	WAO*ED
+they'd	THAO*ED
+wouldn't	WO*UDPBT
+can't	KAPBT
+couldn't	KO*UDPBT
+shouldn't	SHO*UDPBT
+mustn't	PHUSPBT
+
+am I	AEP/EU
+are you	R-/U  
+is he	S-/HE
+is she	S-/SHE
+is it	S-/T-
+are we	R-/WE
+are they	R-/THE
+
+am not	AEP/TPHO*T
+is not	S-/TPHO*T
+are not	R-/TPHO*T
+was not	WAS/TPHO*T
+were not	WER/TPHO*T
+have not	-F/TPHO*T
+has not	HAS/TPHO*T
+had not	HAD/TPHO*T
+do not	DO/TPHO*T
+does not	DAOEZ/TPHO*T
+did not	DID/TPHO*T
+will not	HR/TPHO*T
+would not	WO*UD/TPHO*T
+can not	K-/TPHO*T
+could not	KO*UD/TPHO*T
+should not	SHO*UD/TPHO*T
+must not	PHUS/TPHO*T

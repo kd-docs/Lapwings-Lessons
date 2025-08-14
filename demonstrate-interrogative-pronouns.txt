@@ -1,0 +1,13 @@
+this	TH-S
+that	THA-T
+these	THES
+those	THOS
+who	HO
+whom	WHOPL
+whose	WHOZ
+what	WHA
+which	KH
+when	WH
+where	W-R
+why	KWH
+how	HOU

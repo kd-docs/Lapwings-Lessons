@@ -13,12 +13,3 @@ needed	TPHAOETD
 want	WAUPBT
 wants	WAUPBTS
 wanted	WAUPBTD
-what	WHA
-when	WH
-where	W-R
-which	KH
-who	HO
-whom	WHOM
-whose	WHOZ
-why	KWH
-how	HOU
