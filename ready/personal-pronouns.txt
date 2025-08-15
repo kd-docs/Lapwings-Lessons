@@ -12,7 +12,5 @@ us	US
 them	THEPL
 my	PHAOEU
 your	KWHUR
-his	HEUS
-its	EUFT
 our	OUR
 their	THAEUR

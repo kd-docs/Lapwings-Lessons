@@ -1,7 +1,7 @@
-this	TH-S
-that	THA-T
-these	THES
-those	THOS
+this	TH
+that	THA
+these	THAOES
+those	THOES
 who	HO
 whom	WHOPL
 whose	WHOZ

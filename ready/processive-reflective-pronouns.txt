@@ -1,0 +1,15 @@
+mine	PHAOEUPB
+yours	KWHURS
+his	HEUS
+hers	HERZ
+its	EUTS
+ours	OURZ
+theirs	THAEURS
+myself	PHAO*EUS
+yourself	KWH*URS
+himself	HEUPLS
+herself	H*ERS
+itself	*EUTS
+ourselves	OURS
+yourselves	KWH*URS/-Z
+themselves	THEPLS
