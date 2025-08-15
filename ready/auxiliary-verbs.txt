@@ -3,6 +3,7 @@ is	S
 are	R
 was	WAS
 were	WR
+be	-B
 being	-BG
 been	PW-PB
 have	SR
