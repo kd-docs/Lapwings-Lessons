@@ -1,0 +1,11 @@
+* Inbox
+** TODO Build my own lapwing theory & dictionaries.
+There will be some dictionaries disagreement I have with official lapwing dicts, I need to make sure they are helping me build better dictionary instead of creating more collisions
+*** some words I have question with
+- instead  STPHED
+- question  KWE
+*** some other briefs, not a instinct translation
+- and SKP  (this one has APBD available)
+*** TODO unify pronoun suffixes
+for each pronoun there are suffixes like −s, -self etc. They can be uniformed by suffix like *Z for ..s (hers HER*Z) and *S for ..self(ves) (ourselves O*URS)
+TODO build the list

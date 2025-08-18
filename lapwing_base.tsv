@@ -3421,7 +3421,7 @@ SKP-LD	and would
 SKP-T	and the
 SKP-S	and is
 SKP-D	and had
-SKWHA*FP	"{^}{-|}
+SKWHA*FP	<dquote>{^}{-|}
 SKWR/SO*PB	{^}.json
 SKWR/SOPB	json
 SKWR/KWAOER/KWREU	jQuery
@@ -44225,7 +44225,7 @@ KWR*EPB	{^ien}
 KWR*EPBT	{^ient}
 KWR*EPBS	{^ence}
 KWR*US	{^eus}
-KWR*BGS	{^}."{-|}
+KWR*BGS	{^}.<dquote>{-|}
 KWR*L	ideally
 KWR*GS	{,} {~|'^}
 KWRE	{^e}
@@ -44273,7 +44273,7 @@ KWRES	{^es}
 KWRUR	{^ure}
 KWRUPL	{^ium}
 KWRUS	{^us}
-KWR-BGS	{,} " {^}{-|}
+KWR-BGS	{,} <dquote> {^}{-|}
 KWR-L	ideal
 KWR-L/STKPWAEUGS	idealization
 KWR-L/TEU	ideality
@@ -44288,7 +44288,7 @@ KWR-L/KWREUFT	idealist
 KWR-L/-Z	ideals
 KWR-LD	ideally
 KWR-LZ	ideals
-KWR-GS	{,} {~|"^}
+KWR-GS	{,} {~|<dquote>^}
 KWR-D	idea
 KWR-D/-Z	ideas
 KWR-DZ	ideas
@@ -44804,7 +44804,7 @@ KW*RBGS	{:stitch:Q}
 KW*P	{&Q}
 KW*B	{^ ^}{>}{&q}
 KW*BGS	{} ' {^}{-|}
-KW*GS	{^~|"}
+KW*GS	{^~|<dquote>}
 KWE	question
 KWE/PA/SO	que paso
 KWE/PA/SOE	que paso
@@ -45095,8 +45095,8 @@ KW-RZ	requesters
 KW-PBLG	{>}qmk
 KW-PL	{?}
 KW-BG	{,}
-KW-BGS	{} " {^}{-|}
-KW-GS	{~|"^}
+KW-BGS	{} <dquote> {^}{-|}
+KW-GS	{~|<dquote>^}
 KW-T	qt
 KW-S	requests
 KW-D	requested
