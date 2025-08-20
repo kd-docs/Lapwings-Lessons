@@ -13,6 +13,7 @@ TODO build the list
 - [ ] -s can have *Z (yours ours...)
 - [ ] -self -selves can have *S(yourself sourselves)
 - [ ] -ther can have *RT (neither either rather ...)
+  *others* is a special word for rules above
 - [ ] -thing can have *GT (thing, everything ...)
 - [ ] -body can have -BD? (everybody, somebody?)
-- [ ] *ae*, *a*e .. can be forced by using AE?
+- [ ] *ae*, *a*e .. can be forced by using 'AE' most
